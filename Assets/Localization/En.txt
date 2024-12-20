@@ -1,0 +1,50 @@
+.//
+.
+
+//Play//
+Play
+
+//Levels//
+Levels
+
+//Settings//
+Settings
+
+//Sound//
+Sound
+
+//Continue//
+Continue
+
+//Victory//
+Victory!
+
+//Resume//
+Resume
+
+//Restart//
+Restart
+
+//BackToMenu//
+Back to menu
+
+//Totur1//
+LMB to shoot
+
+//Totur2//
+Save ammo
+
+//Level//
+Level
+
+//HowToPlay//
+Controls
+
+//Totur01//
+Tab - pause
+
+//Totur02//
+WASD - movement
+
+//Totur03//
+LMB - shooting (if you have projectiles)
